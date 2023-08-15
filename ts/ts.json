@@ -66,7 +66,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
        },
      {
-      "name": "fanmingming_IPV6",
+      "name": "fanmingming-IPV6",
       "type": 0,
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
