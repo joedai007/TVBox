@@ -271,19 +271,7 @@
       "ext": {     
       "vodPic": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg",
       "drives": [
-     {
-      "name": "ECVE",
-      "server": "https://pan.ecve.cn"
-     },
-     {
-      "name": "觸光",
-      "server": "https://pan.ichuguang.com"
-     },
-     {
-      "name": "星梦",
-      "server": "https://pan.bashroot.top"
-     },
-     {
+    {
       "name": "罗汉果AV",
       "server": "http://我艹.退学.com:55153"
     }
