@@ -262,7 +262,7 @@
       "jar": "http://192.168.5.1/joe/smb.jar"
     },
     {
-      "key": "AList",
+      "key": "AListt",
       "name": "罗汉果专用",
       "type": 3,"style":{ "type":"rect", "ratio":1.485 },
       "api": "csp_AList",
