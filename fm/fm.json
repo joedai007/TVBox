@@ -15,7 +15,7 @@
       "key": "玩偶",
       "name": "玩偶",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "WoGG",
       "searchable": 1,
       "changeable": 0,
       "ext": {
