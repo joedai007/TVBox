@@ -1,0 +1,13 @@
+{
+  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "drives": [
+    { 
+      "name": "Alist", 
+      "server": "http://192.168.5.1:520/", 
+      "login": { 
+        "username": "admin", 
+        "password": "falwdjdy" 
+    }
+    }
+    ]
+}
