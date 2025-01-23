@@ -42,7 +42,6 @@
 ],
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
-{"name":"feiyang_allinone","type":0,"url":"http://192.168.6.1:35455/tv.m3u","playerType":1},
 {"name":"judy_iptv","type":0,"url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=819465378125437","playerType":1},
 {"name":"doube_itv","type":0,"url":"http://192.168.6.1:50001/Sub?type=txt","playerType":1}
 ]}
