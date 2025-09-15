@@ -1,0 +1,118 @@
+﻿{
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/336c8cfd8f9a73ac/f0729.jpg;md5;2452e3a72453e1e2305e9b66eae38fe5",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
+"sites":[
+         {
+      "key": "py_DianYingTanTang",
+      "name": "🫐电影天堂(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=DianYingTanTang",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+          },
+          {   
+            "key": "BadNews",
+            "name": "🔞BadNews",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=BadNews",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+            },
+            {
+      "key": "py_madou",
+      "name": "🔞麻豆(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=MaDou",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+            }
+            },
+          {
+          "key":"javxx",
+          "name":"🔞JAVXX",
+          "type":3,
+          "api":"http://192.168.5.1/joe/drpy/lib/drpy2.min.js",
+          "searchable":1,
+          "quickSearch":1,
+          "filterable":1,
+          "order_num":0,
+          "ext":"http://192.168.5.1/joe/drpy/js/JAVXX（优）.js"
+          },
+          {
+      "key": "py_Miss",
+      "name": "🔞MissAV(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=Miss",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+       },
+       {
+      "key": "py_AiDou",
+      "name": "🔞AiDou(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=AiDou",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+      },
+   {
+      "key": "py_MrJav",
+      "name": "🔞MRJav(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=MrJav",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+       {
+      "key": "py_rou",
+      "name": "🔞Rou(T3)",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/14756/python/vod_rou.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+         },
+          {
+            "key":"csp_XYQHiker_AV6K",
+            "name":"🔞AV6K",
+            "type":3,
+            "api":"csp_XYQHiker",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://192.168.5.1/joe/drpy/json/AV6K.json",
+            "jar":"http://192.168.5.1/joe/drpy/jar/XYQ.jar"
+          }                                         
+],
+"logo":"https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
+"lives":[
+{"name":"feiyang_allinone","type":0,"url":"http://192.168.5.1:35455/tv.m3u","playerType":1},
+{"name":"FreesHot(python)","type":3,"api":"https://d.kstore.dev/download/14756/python/live_freeshot.py","ext":{}}
+]}
