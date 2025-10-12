@@ -1,0 +1,428 @@
+{
+    "spider": "./yt.jar",
+    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "sites": [
+        {
+            "key": "Cntv",
+            "name": "Cntv",
+            "type": 3,
+            "api": "csp_CntvSpider",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+{
+            "key": "文件播放2",
+            "name": "文件播放2",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=13",
+            "ext": "/storage/emulated/0/lz/wj/影视/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },        
+        {
+            "key": "PTT",
+            "name": "PTT",
+            "type": 3,
+            "api": "csp_PTT",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "苹果jar",
+            "name": "苹果jar",
+            "type": 3,
+            "api": "csp_PingGuo",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "看球",
+            "name": "看球",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "动漫",
+            "name": "动漫",
+            "type": 3,
+            "api": "csp_YHDM",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+       {
+            "key": "荐片采集",
+            "name": "荐片采集",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/jianpian1.php",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+         {
+            "key": "采集全集",
+            "name": "采集全集",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=12",
+            "ext": "0",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "听书go",
+            "name": "听书go",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=11",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "哔哩",
+            "name": "哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": {
+                "cookie": "",
+                "type": "综合#音乐#影视"
+            },
+            "changeable": 1
+        },
+        {
+            "key": "服务器油管go",
+            "name": "服务器油管go",
+            "type": 4,
+            "api": "http://127.0.0.1:1988",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "油管清单播放",
+            "name": "油管清单播放",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=9",
+            "ext": "/storage/emulated/0/lz/json/油管/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "影视清单播放",
+            "name": "影视清单播放",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=9",
+            "ext": "/storage/emulated/0/lz/json/影视/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "其他清单播放",
+            "name": "其他清单播放",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=9",
+            "ext": "/storage/emulated/0/lz/json/其他/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "油管文件播放",
+            "name": "油管文件播放",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=8",
+            "ext": "/storage/emulated/0/lz/wj/油管/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "影视文件播放",
+            "name": "影视文件播放",
+            "type": 4,
+            "api": "http://192.168.1.115:1988/lb?lb=8",
+            "ext": "/storage/emulated/0/lz/wj/影视/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "直播文件播放",
+            "name": "直播文件播放",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=8",
+            "ext": "/storage/emulated/0/lz/wj/直播/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "其他文件播放",
+            "name": "其他文件播放",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=8",
+            "ext": "/storage/emulated/0/lz/wj/其他/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "音乐文件播放",
+            "name": "音乐文件播放",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=8",
+            "ext": "/storage/emulated/0/lz/wj/音乐/",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "月佬瓜子影视",
+            "name": "月佬瓜子影视",
+            "type": 4,
+            "api": "https://tvbot.ggff.net/guazi",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+         {
+            "key": "电影天堂",
+            "name": "电影天堂",
+             "type":1,
+             "api":"http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+             "searchable":1,
+             "quickSearch":1,
+             "jar":"http://192.168.5.1/joe/fm/fm.jar"
+         }, 
+        {
+            "key":"小苹果",
+            "name":"小苹果",
+            "type":4,
+            "api":"http://zhangqun19.serv00.net/pingguo.php",
+            "style": {
+                "type":"rect",
+                "ratio":1.33
+            },
+            "changeable":1
+        },
+        {
+            "key": "欧乐影院",
+            "name": "欧乐影院",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=4",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+       {
+            "key": "jable",
+            "name": "jable",
+            "type": 3,
+            "api": "csp_Jable",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=2",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "哔哩go",
+            "name": "哔哩go",
+            "type": 4,
+            "api": "http://127.0.0.1:1988/lb?lb=10",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        }
+    ],
+    "headers": [
+        {
+            "host": "mgtv.ottiptv.cc",
+            "header": {
+                "User-Agent": "okHttp/Mod-1.4.0.0",
+                "Referer": "https://mgtv.ottiptv.cc/"
+            }
+        }
+    ],
+    "parses": [
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "777",
+            "type": 0,
+            "url": "https://www.huaqi.live/?url="
+        },
+        {
+            "name": "jsonplayer",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "xmflv",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        }
+    ],
+    "flags": [
+        "youku",
+        "tudou",
+        "qq",
+        "qiyi",
+        "iqiyi",
+        "leshi",
+        "letv",
+        "sohu",
+        "imgo",
+        "mgtv",
+        "bilibili",
+        "pptv",
+        "PPTV",
+        "migu"
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-query",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "MY live-catvod",
+            "type": "0",
+            "ua": "okhttp/3.15",
+            "url": "https://live.catvod.com/tv.m3u"
+        },
+        {
+            "name": "MY live-catvod-local",
+            "type": "0",
+            "ua": "okhttp/3.15",
+            "url": "http://127.0.0.1:9978/file/lives/Live-catvod.txt"
+        },
+        {
+            "name": "MQiTV",
+            "api": "csp_MQiTV",
+            "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
+            "ext": "https://59.125.210.231:4433",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "肥羊国内直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "tv.m3u",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+        }
+    ]
+}
