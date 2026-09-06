@@ -1,0 +1,60 @@
+﻿{
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/336c8cfd8f9a73ac/f0729.jpg;md5;2452e3a72453e1e2305e9b66eae38fe5",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
+"sites":[
+          {
+            "key":"js_蜻蜓FM",
+            "name":"🦋蜻蜓FM(js)",
+            "type":3,
+            "api":"http://192.168.5.1/joe/drpy/lib/drpy2.min.js",
+            "changeable":0,
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://192.168.5.1/joe/drpy/js/蜻蜓FM.js"
+           },
+       {
+            "key":"py_香蕉",
+            "name":"🔞香蕉(py)",
+            "type":3,
+            "api":"http://192.168.5.1/joe/drpy/py/香蕉.py",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "order_num":0           
+        },
+  {
+  "key": "js_madou",
+  "name": "🔞麻豆(js)",
+  "type": 3,
+  "api": "http://192.168.5.1/joe/drpy/js/麻豆.js",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "changeable": 0
+  },
+    {
+      "key": "1",
+      "name": "🔞火速",
+      "type": 1,
+      "api": "https://api.huosuapi.cc/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "2",
+      "name": "🔞嘿嘿",
+      "type": 1,
+      "api": "https://api.heiapi.cc/api.php/provide/vod/?ac=list"
+    }
+],
+"logo":"https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
+"lives":[
+ {
+            "name": "develop",
+            "type": 0,
+            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "playerType": 2,
+            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ]
+}
